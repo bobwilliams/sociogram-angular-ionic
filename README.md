@@ -9,7 +9,9 @@ A sample application that demonstrates a lightweight approach to integrate with 
 
 2. Add the inappbrowser plugin to your project
 
-   cordova plugins add org.apache.cordova.inappbrowser
+  ```
+  $ cordova plugins add org.apache.cordova.inappbrowser
+  ```
 
 3. Replace the www folder of the Ionic project with the www folder in this repository
 
